@@ -71,6 +71,14 @@ Me chamo Thiago Lira dos Santos, tenho 24 anos. Atualmente, estou cursando Anál
 />
 <img 
     align="left" 
+    alt="Matplotlib" 
+    title="Matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 

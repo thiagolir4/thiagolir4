@@ -79,14 +79,6 @@ Me chamo Thiago Lira dos Santos, tenho 24 anos. Atualmente, estou cursando Anál
 />
 <img 
     align="left" 
-    alt="Seaborn" 
-    title="Seaborn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/mwaskom/seaborn/raw/main/doc/_static/logo-mark-lightbg.png" 
-/>
-<img 
-    align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 

@@ -61,17 +61,23 @@ Me chamo Thiago Lira dos Santos, tenho 25 anos. Atualmente, estou cursando Anál
 
 ### 📊 Estatísticas & Atividade
 
-<p align="center">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=thiagolir4&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagolir4&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top Langs"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=thiagolir4&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagolir4&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagolir4&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00E4&point=FFFFFF&area=true&area_color=00F5FF" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img height="195" src="https://streak-stats.demolab.com/?user=thiagolir4&locale=pt-br&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=808080" alt="GitHub Streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=thiagolir4&locale=pt-br&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=808080" alt="GitHub Streak"/>
 </p>
 
 ---

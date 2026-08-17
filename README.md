@@ -59,8 +59,8 @@ Me chamo Thiago Lira dos Santos, tenho 25 anos. Atualmente, estou cursando Anál
 ### 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagolir4&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolir4&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top Langs"/>
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=thiagolir4&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=thiagolir4&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top Langs"/>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Me chamo Thiago Lira dos Santos, tenho 25 anos. Atualmente, estou cursando Anál
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagolir4&locale=pt-br&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=808080" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=thiagolir4&locale=pt-br&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=808080" alt="GitHub Streak"/>
 </p>
 
 ---

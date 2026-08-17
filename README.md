@@ -8,9 +8,9 @@
 
 Me chamo Thiago Lira dos Santos, tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR e finalizando a formação de Engenheiro de Dados na escola DNC. Sou apaixonado por tecnologia e compartilho meu conhecimento e aprendizados através do meu perfil no Linkedin "[Thiago Lira dos Santos](https://www.linkedin.com/in/thiagolsantoss/)", onde estou a aprender e compartilhar projetos e informações sobre o mundo de dados.
 
-- 🔭 Atualmente aprofundando conhecimentos em Engenharia de Dados (DNC) e Análise e Desenvolvimento de Sistemas (UNICESUMAR)
-- 🌱 Praticando Python, SQL e visualização de dados em projetos pessoais
-- 💬 Fale comigo sobre dados, Python ou SQL
+- 🔭 Construindo pipelines ETL/ELT e arquitetura de Data Lakehouse (DuckDB, Parquet, PostgreSQL) no setor financeiro
+- 🌱 Aprofundando conhecimentos em Engenharia de Dados (DNC) e Análise e Desenvolvimento de Sistemas (UNICESUMAR)
+- 💬 Fale comigo sobre dados, Python, SQL ou ETL
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/thiagolsantoss/)
 
 <p align="left">
@@ -44,6 +44,9 @@ Me chamo Thiago Lira dos Santos, tenho 25 anos. Atualmente, estou cursando Anál
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/DuckDB-0D1117?style=for-the-badge&logo=duckdb&logoColor=FFF000" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-0D1117?style=for-the-badge" alt="ETL/ELT"/>
   <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F5FF" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FF00E4" alt="Pandas"/>
